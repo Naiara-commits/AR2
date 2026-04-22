@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/NaiaraIgartua/Scenes/Escena1.unity
+    guid: 90f8a9c8e15059945a87d7c74e9fb33c
+  - enabled: 1
+    path: Assets/NaiaraIgartua/Scenes/EscenaInicial.unity
+    guid: 2b681faf0436efd4e863205a18b1aa87
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 5e20bec2535419d4ba6f1bfe116d2087, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
